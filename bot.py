@@ -147,7 +147,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "💵 `/spend` — Total spend per account\n"
         "📈 `/today` — Today's numbers across all accounts\n"
         "📋 `/accounts` — List all account IDs\n\n"
-        "Account IDs: `001` `002` `002s` `003` `004` `005` `006` `007` `008`"
+        "Account IDs: `001` `001jl` `002` `002s` `003` `004` `005` `006` `007` `008`"
     )
     await update.message.reply_text(msg, parse_mode="Markdown")
 
