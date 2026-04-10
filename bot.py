@@ -55,6 +55,7 @@ ACCOUNTS = {
     "006": {"label": "jackpotdaily 006 (STEVEN)", "row_start": 43,"row_end": 56, "total": 57, "col": 0},
     "007": {"label": "jackpotdaily 007 (STEVEN)", "row_start": 43,"row_end": 56, "total": 57, "col": 7},
     "008": {"label": "jackpotdaily 008 (STEVEN)", "row_start": 43,"row_end": 56, "total": 57, "col": 14},
+    "001jl":{"label": "jackpotdaily 001 (JL)",    "row_start": 62,"row_end": 75, "total": 76, "col": 7},
 }
 
 OVERALL = {"row_start": 62, "row_end": 75, "total": 76}
